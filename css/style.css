@@ -37,7 +37,8 @@ body{
 /* ================= SECTION SPACING ================= */
 
 section{
-    padding:90px 10%;
+    min-height: auto;
+    padding: 7rem 9% 5rem;
 }
 
 .heading{
@@ -143,7 +144,7 @@ section{
     max-width:650px;
 }
 
-css id="r2n8f6"
+
 .opportunity{
     margin-top:20px;
     color:var(--main-color);
@@ -237,9 +238,9 @@ css id="r2n8f6"
 }
 
 .about-content{
-    max-width:900px;
-    margin:auto;
-    text-align:center;
+    max-width: 900px;
+    margin: auto;
+    line-height: 1.8;
 }
 
 .about-content p{
